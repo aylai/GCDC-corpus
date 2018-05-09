@@ -1,6 +1,6 @@
 ### Grammarly Corpus of Discourse Coherence (GCDC)
 
-Description of this corpus and the accomopanying code can be found in the following paper: 
+Description of this corpus and the accompanying code can be found in the following paper: 
 
     Discourse Coherence in the Wild: A Dataset, Evaluation and Methods
     Alice Lai (aylai2@illinois.edu) and Joel Tetreault (joel.tetreault@grammarly.com)
